@@ -1,0 +1,8 @@
+{
+  "name": "test-live-update-cap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2a61cb47"
+}
