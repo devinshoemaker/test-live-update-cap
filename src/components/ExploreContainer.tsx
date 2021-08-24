@@ -8,7 +8,7 @@ const ExploreContainer: React.FC<ContainerProps> = ({ name }) => {
   return (
     <div className="container">
       <strong>{name}</strong>
-      <p>v3</p>
+      <p>binary 1.1</p>
     </div>
   );
 };
