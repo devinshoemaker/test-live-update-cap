@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "test-live-update-cap",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
